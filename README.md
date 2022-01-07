@@ -1,6 +1,6 @@
 # openlane
 
-openlaneinstallation steps
+openlane installation steps
 
 open terminal in your ubuntu
 <ol>
